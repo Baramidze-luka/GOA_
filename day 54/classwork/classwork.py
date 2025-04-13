@@ -1,0 +1,1 @@
+print("code wars gvqonda da ar mixsnida")
